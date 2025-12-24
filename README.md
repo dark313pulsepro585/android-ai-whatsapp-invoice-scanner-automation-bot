@@ -2,7 +2,6 @@
 
 An Android AI automation system that pulls the latest invoice image from WhatsApp, processes it in a native scanner app, extracts key fields using OCR, then completes an invoice submission flow inside the RTS Pro factoring app. It streamlines a repetitive, multi-app workflow into a reliable device-driven pipeline with validation, retries, and full run logging.
 
-Built for real Android devices, this project focuses on stable UI navigation, dependable data extraction, and consistent PDF upload + payment submission.
 
 <p align="center">
   <a href="https://Appilot.app" target="_blank"><img src="https://github.com/Instagram-Automations/Footer-test/blob/main/appilot-baner.png" alt="Appilot Banner" width="100%"></a>
